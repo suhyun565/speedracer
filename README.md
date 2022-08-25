@@ -1,5 +1,5 @@
 # speedracer
-without product crud, order qty, inventory table
+Django progject
 
 <h3>Manager page for inventory tracking with Django</h3>
 
