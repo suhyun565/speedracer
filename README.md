@@ -27,12 +27,6 @@ Especially, during Corona pandemic, people can buy things in non-face-to-face by
 
 ---
 
-**About Team**
-
-- 팀원
-
-  - 이수현,이지민,김정용
-
 - 개발 도구
 
   - Colab, VSCode, M1 Jupyter Notebook,sqlite
